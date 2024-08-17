@@ -36,7 +36,7 @@ The types of notifications and rate limit rules are dynamic, allowing users to d
 
 1. git clone [https://github.com/elkinff/modak-rodrigo.git](https://github.com/elkinff/modak-rodrigo.git)
 
-    cd rate-limited-notification-service
+    cd modak-rodrigo
 
 
 2. Install dependencies: 
@@ -173,7 +173,6 @@ The API contains 5 main endpoints:
 
 The api doc is here https://documenter.getpostman.com/view/29770337/2sA3s9C7kc
 
-
-📝 Feel free to modify this template to better fit your project's specific needs. 
+ 
 
 Developed with 🖤.
