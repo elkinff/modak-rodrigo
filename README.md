@@ -34,7 +34,7 @@ The types of notifications and rate limit rules are dynamic, allowing users to d
 
 ## ⚙️ Installation and Configuration
 
-1. git clone [[https://github.com/elkinff/modak-rodrigo.git](https://github.com/elkinff/modak-rodrigo.git)
+1. git clone [https://github.com/elkinff/modak-rodrigo.git](https://github.com/elkinff/modak-rodrigo.git)
 
     cd rate-limited-notification-service
 
