@@ -34,7 +34,7 @@ The types of notifications and rate limit rules are dynamic, allowing users to d
 
 ## ⚙️ Installation and Configuration
 
-1. git clone https://github.com/yourusername/rate-limited-notification-service.git
+1. git clone [https://github.com/yourusername/rate-limited-notification-service.git](https://github.com/elkinff/modak-rodrigo)
 
     cd rate-limited-notification-service
 
